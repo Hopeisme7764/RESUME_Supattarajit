@@ -1,0 +1,88 @@
+body{
+    background-color: white;
+}
+h1 {
+    border: 2px solid black;
+    background-color: burlywood;
+    font-size: 2vw;
+    text-align: center;
+}
+#education {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.P {
+    border: 2px solid purple;
+    background-color: purple;
+    color: yellow;
+    padding: 5px;
+}
+.S {
+    border: 2px solid green;
+    background-color: green;
+    color: white;
+    padding: 5px;
+}
+.C {
+    border: 2px solid green;
+    background-color: green;
+    color: lightgreen;
+    padding: 5px;
+}
+.sri {
+    text-align: center;
+}
+.str {
+    text-align: center;
+}
+.sil {
+    text-align: center;
+}
+.aero {
+    text-align: center;
+    font-size: 1vw;
+}
+.certificated {
+    text-align: center;
+    font-size: 1vw;
+}
+#aa {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#bb {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.aaa, .bbb, .ccc, .ddd {
+    text-align: center;
+    font-size: 1vw;
+}
+
+#all {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    background-color: burlywood;
+}
+.Home {
+    border-radius: 10px;
+    font-size: larger;
+}
+.Experience {
+    border-radius: 10px;
+    font-size: larger;
+}
+.Projects {
+    border-radius: 10px;
+    font-size: larger;
+}
+.Contact {
+    border-radius: 10px;
+    font-size: larger;
+}
+
