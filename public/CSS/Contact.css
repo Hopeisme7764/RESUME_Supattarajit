@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(200, 200, 200);
+}
+h1 {
+    text-align: center;
+    font-size: 3vw;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(130, 255, 150);
+}
+#contact-all {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 80%;
+}
+.facebook, .instagram, .line, .gmail, .telephone {
+    text-align: center;
+}
+#all {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    background-color: rgb(199, 255, 132);
+}
+p {
+    font-size: xx-large;
+    text-align: center;
+}
+.index {
+    border-radius: 10px;
+    font-size: 2vw;
+}
+.Experience {
+    border-radius: 10px;
+    font-size: 2vw;
+}
+.Projects {
+    border-radius: 10px;
+    font-size: 2vw;
+}
+.Contact {
+    border-radius: 10px;
+    font-size: 2vw;
+}
